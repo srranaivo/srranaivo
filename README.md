@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 I decided to train myself in computer science (Paris VIII University) and coding (Le Wagon Coding Bootcamp Lausanne) :computer:. * Python
 * Common Lisp
+-->
+
