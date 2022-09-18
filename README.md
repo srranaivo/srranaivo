@@ -1,5 +1,5 @@
 ### Hi 👋 I'm Sophie and I'm a junior fullstack developer
-<p> :pill: Nurse by training :syringe: and enthusiastic about the huge possibilities given by new technologies, I decided to train myself in computer science and coding :computer:.</p>
+<p> :pill: Nurse by training :syringe: and enthusiastic about the huge possibilities given by new technologies, I decided to train myself in computer science (Paris VIII University) and coding (Le Wagon COding Bootcamp Lausanne) :computer:.</p>
 
 <p> I learned: </p>
 
@@ -8,8 +8,9 @@
 * Ruby
 * Ruby On Rails
 * Javascript
+* SQL
 
-<p>I'm French but I live in :round_pushpin: Switzerland</p>
+<p>I'm French and I live in :round_pushpin: Switzerland</p>
 
 <p>:earth_africa: I love to travel to discover new horizons :earth_americas: and new cultures :earth_asia:</p>
 
