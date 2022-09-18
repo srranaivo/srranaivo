@@ -1,4 +1,21 @@
-### Hi 👋 I'm Sophie
+### Hi 👋 I'm Sophie and I'm a fullstack developer junior
+<p> :pill: Nurse by training :syringe: and enthusiastic about the immensity of the field of possibilities of new technologies, I decided to train myself in computer coding :computer:.</p>
+
+<p> I learned: </p>
+
+* HTML
+* CSS
+* Ruby
+* Ruby On Rails
+* Javascript
+
+<p>I'm French but I live in :round_pushpin: Switzerland</p>
+
+<p>:earth_africa: I love to travel to discover new horizons :earth_americas: and new cultures :earth_asia:</p>
+
+
+
+
 
 <!--
 **srranaivo/srranaivo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
