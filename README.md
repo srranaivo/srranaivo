@@ -1,5 +1,5 @@
 ### Hi 👋 I'm Sophie and I'm a junior fullstack developer
-<p> :pill: Nurse by training :syringe: and enthusiastic about the huge possibilities given by new technologies, I decided to train myself in computer science (Paris VIII University) and coding (Le Wagon Coding Bootcamp Lausanne) :computer:.</p>
+<p> :pill: Nurse by training :syringe: and enthusiastic about the huge possibilities given by new technologies, I decided to train myself in computer science and coding. In particular, I learned to code thanks to Le Wagon Coding Bootcamp Lausanne :computer:.</p>
 
 <p> I learned: </p>
 
@@ -9,14 +9,13 @@
 * Ruby On Rails
 * Javascript
 * SQL
-* Python
-* Common Lisp
+* LaTeX
 
 <p>I'm French and I live in :round_pushpin: Switzerland</p>
 
 <p>:earth_africa: I love to travel to discover new horizons :earth_americas: and new cultures :earth_asia:</p>
 
-
+- 📫 How to reach me: https://www.linkedin.com/in/sophie-ramahenina-ranaivo
 
 
 
@@ -30,7 +29,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I decided to train myself in computer science (Paris VIII University) and coding (Le Wagon Coding Bootcamp Lausanne) :computer:. * Python
+* Common Lisp
