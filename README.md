@@ -1,5 +1,5 @@
 ### Hi 👋 I'm Sophie and I'm a junior fullstack developer
-<p> :pill: Nurse by training :syringe: and enthusiastic about the immensity of the field of possibilities of new technologies, I decided to train myself in computer coding :computer:.</p>
+<p> :pill: Nurse by training :syringe: and enthusiastic about the huge possibilities given by new technologies, I decided to train myself in computer science and coding :computer:.</p>
 
 <p> I learned: </p>
 
